@@ -1,16 +1,16 @@
-# 👋 Hi there, I'm Fauzan Abdul Hakim  
+#  Hi there, I'm Fauzan Abdul Hakim  
 
-💻 **IT Support | SysAdmin | Frontend Developer | Python Enthusiast**  
-🚀 Passionate about building scalable systems, interactive apps, and keeping networks healthy.  
+ **IT Support | SysAdmin | Frontend Developer | Python Enthusiast**  
+ Passionate about building scalable systems, interactive apps, and keeping networks healthy.  
 
-## 🧑‍💻 About Me  
-- 🔧 Experienced in **IT Support, Hardware, Software, Networking & Server Maintenance**  
-- 🖥️ Managing systems and infrastructure as a **SysAdmin**  
-- 📱 Developing mobile apps with **Flutter, Kotlin, and Java**  
-- 🌐 Crafting interactive UIs with **React**  
-- 🐍 Exploring automation, scripting, and backend solutions with **Python**  
+##  About Me  
+-  Experienced in **IT Support, Hardware, Software, Networking & Server Maintenance**  
+-  Managing systems and infrastructure as a **SysAdmin**  
+-  Developing mobile apps with **Flutter, Kotlin, and Java**  
+-  Crafting interactive UIs with **React**  
+-  Exploring automation, scripting, and backend solutions with **Python**  
 
-## 🚀 Tech Stack  
+##  Tech Stack  
 <p align="center">
   <!-- IT Support & SysAdmin -->
   <img src="https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=white" />
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 <p align="center">
 <p align="center">
 <p align="center">
@@ -40,7 +40,7 @@
 
 </p>
 
-## 🌍 Connect with Me  
+##  Connect with Me  
 <p align="center">
   <a href="mailto:fauzanabdulhakim@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/fauzanabdulhakim/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
@@ -49,7 +49,6 @@
 
 <div align="center">
 
-✨ “Technology should simplify life, not complicate it.” ✨  
+ “Technology should simplify life, not complicate it.” ✨  
 
 </div>
-

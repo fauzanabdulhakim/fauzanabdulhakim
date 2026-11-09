@@ -1,6 +1,6 @@
 # Fauzan Abdul Hakim
 
-**Full-Stack Developer | Flutter & Kotlin**
+**Full-Stack Developer | Flutter, Kotlin & Go**
 
 I build and publish mobile applications, with a focus on Flutter and Kotlin. I also have experience with Python, Java, Laravel, PHP, and React. Open to software development roles, freelance projects, and open-source collaboration.
 
@@ -16,7 +16,7 @@ I build and publish mobile applications, with a focus on Flutter and Kotlin. I a
 
 ## Tech stack | Teknologi
 
-- **Primary:** Flutter, Kotlin
+- **Primary:** Flutter, Kotlin, Go
 - **Also used:** Python, Java, Laravel, PHP, React
 
 ## Project | Proyek

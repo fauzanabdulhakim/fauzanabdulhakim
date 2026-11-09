@@ -19,9 +19,12 @@ I build and publish mobile applications, with a focus on Flutter and Kotlin. I a
 - **Primary:** Flutter, Kotlin
 - **Also used:** Python, Java, Laravel, PHP, React
 
+## Project | Proyek
+
+- [ZHN Topup](https://zhntopup.com) — Web top-up platform built with Flutter and Go.
+
 ## Open-source projects | Proyek open source
 
-- [ZHnTopup](https://zhntopup.com) — Web top-up platform built with Flutter and Go.
 - [Dealer Motor](https://github.com/fauzanabdulhakim/dealermotor) — Flutter application.
 - [Game Blink Spark AR](https://github.com/fauzanabdulhakim/game_blink_sparkAr) — JavaScript project.
 - [Kafe](https://github.com/fauzanabdulhakim/Kafe) — Java application.

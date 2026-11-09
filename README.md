@@ -1,54 +1,34 @@
-#  Hi there, I'm Fauzan Abdul Hakim  
+# Fauzan Abdul Hakim
 
- **IT Support | SysAdmin | Frontend Developer | Python Enthusiast**  
- Passionate about building scalable systems, interactive apps, and keeping networks healthy.  
+**Full-Stack Developer | Flutter & Kotlin**
 
-##  About Me  
--  Experienced in **IT Support, Hardware, Software, Networking & Server Maintenance**  
--  Managing systems and infrastructure as a **SysAdmin**  
--  Developing mobile apps with **Flutter, Kotlin, and Java**  
--  Crafting interactive UIs with **React**  
--  Exploring automation, scripting, and backend solutions with **Python**  
+I build and publish mobile applications, with a focus on Flutter and Kotlin. I also have experience with Python, Java, Laravel, PHP, and React. Open to software development roles, freelance projects, and open-source collaboration.
 
-##  Tech Stack  
-<p align="center">
-  <!-- IT Support & SysAdmin -->
-  <img src="https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Networking-1E90FF?style=flat&logo=cisco&logoColor=white" />
-  
-  <!-- Mobile -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
-  
-  <!-- Web & Programming -->
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-</p>
+**Saya membangun dan menerbitkan aplikasi mobile, dengan fokus pada Flutter dan Kotlin. Saya juga berpengalaman menggunakan Python, Java, Laravel, PHP, dan React. Terbuka untuk peluang kerja software development, proyek freelance, dan kolaborasi open source.**
 
-##  GitHub Stats  
-<p align="center">
-<p align="center">
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fauzanabdulhakim&show_icons=true&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanabdulhakim&layout=compact&theme=tokyonight" width="400"/>
-</p>
+## Published apps | Aplikasi yang dipublikasikan
 
-</p>
+- [GameRank: Retro Game Emulator](https://play.google.com/store/apps/details?id=com.zantech.gamerank) — Retro game emulator for multiple consoles. **10K+ downloads** and **304 reviews** on Google Play when checked in November 2026.
+- [GameRank32 Retro Game Emulator](https://play.google.com/store/apps/details?id=com.zantech.gamerank32)
+- [Mengaji](https://play.google.com/store/apps/details?id=com.zantech.mengaji)
+- [Kasiran POS](https://play.google.com/store/apps/details?id=com.zantech.kasiran)
+- [View all apps on Google Play](https://play.google.com/store/apps/dev?id=6395521360063809018&hl=en)
 
-</p>
+## Tech stack | Teknologi
 
-##  Connect with Me  
-<p align="center">
-  <a href="mailto:fauzanabdulhakim@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/fauzanabdulhakim/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/fauzanabdulhakim"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
-</p>
+- **Primary:** Flutter, Kotlin
+- **Also used:** Python, Java, Laravel, PHP, React
 
-<div align="center">
+## Open-source projects | Proyek open source
 
- “Technology should simplify life, not complicate it.” ✨  
+- [ZHnTopup](https://zhntopup.com) — Web top-up platform built with Flutter and Go.
+- [Dealer Motor](https://github.com/fauzanabdulhakim/dealermotor) — Flutter application.
+- [Game Blink Spark AR](https://github.com/fauzanabdulhakim/game_blink_sparkAr) — JavaScript project.
+- [Kafe](https://github.com/fauzanabdulhakim/Kafe) — Java application.
+- [KafeServer](https://github.com/fauzanabdulhakim/KafeServer) — Java server project.
 
-</div>
+## Contact | Kontak
+
+- [Portfolio](https://fauzanabdulhakim.netlify.app/)
+- [LinkedIn](https://www.linkedin.com/in/fauzanabdulhakim/)
+- [Email](mailto:fauzanabdulhakim@gmail.com)
